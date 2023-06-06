@@ -1,0 +1,15 @@
+/home/operador/projects/dotnet/byteBank/bin/Debug/net7.0/byteBank
+/home/operador/projects/dotnet/byteBank/bin/Debug/net7.0/byteBank.deps.json
+/home/operador/projects/dotnet/byteBank/bin/Debug/net7.0/byteBank.runtimeconfig.json
+/home/operador/projects/dotnet/byteBank/bin/Debug/net7.0/byteBank.dll
+/home/operador/projects/dotnet/byteBank/bin/Debug/net7.0/byteBank.pdb
+/home/operador/projects/dotnet/byteBank/obj/Debug/net7.0/byteBank.csproj.AssemblyReference.cache
+/home/operador/projects/dotnet/byteBank/obj/Debug/net7.0/byteBank.GeneratedMSBuildEditorConfig.editorconfig
+/home/operador/projects/dotnet/byteBank/obj/Debug/net7.0/byteBank.AssemblyInfoInputs.cache
+/home/operador/projects/dotnet/byteBank/obj/Debug/net7.0/byteBank.AssemblyInfo.cs
+/home/operador/projects/dotnet/byteBank/obj/Debug/net7.0/byteBank.csproj.CoreCompileInputs.cache
+/home/operador/projects/dotnet/byteBank/obj/Debug/net7.0/byteBank.dll
+/home/operador/projects/dotnet/byteBank/obj/Debug/net7.0/refint/byteBank.dll
+/home/operador/projects/dotnet/byteBank/obj/Debug/net7.0/byteBank.pdb
+/home/operador/projects/dotnet/byteBank/obj/Debug/net7.0/byteBank.genruntimeconfig.cache
+/home/operador/projects/dotnet/byteBank/obj/Debug/net7.0/ref/byteBank.dll
